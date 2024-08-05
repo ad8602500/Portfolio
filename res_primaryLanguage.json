@@ -1,0 +1,83 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Aditya Pratap Singh. I'm working with the newest front-end frameworks like Angular, React, and Vue. What you are seeing now is a portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills"
+        
+      }
+    },
+    "projects": [
+      {
+        "title": "Airbnb Like Rental Marketplace",
+        "startDate": "2024",
+        "description": "An Airbnb-like rental marketplace web application that connects property owners with potential renters. Features include secure user authentication, comprehensive property listings, real-time booking, interactive maps, and a user review system, all built with React.js, Node.js, and MongoDB.",
+        "images": [
+         " https://www.google.com/url?sa=i&url=https%3A%2F%2Fconnective3.com%2Fblog%2Fairbnb-a-new-homepage-design-to-help-customers-find-a-unique-holiday-experience%2F&psig=AOvVaw09J7wuXt6MLDJ6tOH8r7yJ&ust=1722966865047000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjSy_G13ocDFQAAAAAdAAAAABAE"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Simon Say Game",
+        "startDate": "2024",
+        "description": "A classic Simon Says game built using HTML, CSS, and JavaScript. This interactive game tests users' memory by challenging them to replicate increasingly complex sequences of lights and sounds.",
+        "images": [
+          "images/maxresdefault.jpg"
+         
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Todo List",
+        "startDate": "2023",
+        "description": "One of the first game I was working on my college. I had to develop front-end implementation for game that shows 3D models of known buildings. This was also my first project in web development . I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ]
+    
+    
+  }
